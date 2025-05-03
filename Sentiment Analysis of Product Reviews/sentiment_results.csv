@@ -1,0 +1,9 @@
+Timestamp,Review Excerpt,Sentiment,Positive Words,Negative Words,Positive Count,Negative Count
+2025-05-03 21:15:59,the product is very poor and bad,Negative,,"bad, poor",0,2
+2025-05-03 21:16:30,the product is very poor and good,Neutral,good,poor,1,1
+2025-05-03 21:17:10,the product is very poor and good ang bad good poor,Negative,good,"bad, poor",1,2
+2025-05-03 21:17:12,the product is very poor and good ang bad good poor,Negative,good,"bad, poor",1,2
+2025-05-03 21:17:13,the product is very poor and good ang bad good poor,Negative,good,"bad, poor",1,2
+2025-05-03 21:17:26,the product is very poor and good ang bad good poor,Negative,"good, good","poor, angry, bad, poor",2,4
+2025-05-03 21:17:27,the product is very poor and good ang bad good poor,Negative,"good, good","poor, angry, bad, poor",2,4
+2025-05-03 21:22:51,good,Positive,good,,1,0
